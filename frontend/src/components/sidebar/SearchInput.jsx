@@ -9,7 +9,7 @@ export default function SearchInput() {
         placeholder="Search..."
       />
       <button
-        className="w-10 h-10 text-white bg-blue-500 rounded-full hover:bg-blue-600"
+        className="w-10 h-10 text-white bg-blue-500 rounded-xl hover:bg-blue-600"
         type="submit"
       >
         <svg
